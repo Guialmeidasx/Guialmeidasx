@@ -13,19 +13,6 @@
 
 <br/>
 
-<!-- ===================== SOBRE ===================== -->
-
-```csharp
-var guilherme = new Desenvolvedor
-{
-    Nome        = "Guilherme Almeida",
-    Formacao    = "Desenvolvimento de Software - (Fatec PG)" 2026 - 2028
-    Linguagens  = new[] { "Java", "JavaScript", "PHP", "CSS", "HTML", "C#" }
-};
-```
-
-<br/>
-
 <!-- ===================== STACK ===================== -->
 ## 🛠️ Tecnologias
 
