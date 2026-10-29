@@ -23,8 +23,6 @@ var guilherme = new Desenvolvedor
     Linguagens  = new[] { "Java", "JavaScript", "PHP", "CSS", "HTML", "C#" }
 };
 ```
-- 💻 Praticando lógica, algoritmos e orientação a objetos com projetos próprios
-- 🤝 Aberto a networking, estágio e projetos em equipe
 
 <br/>
 
@@ -53,36 +51,6 @@ var guilherme = new Desenvolvedor
 
 <br/>
 
-<!-- ===================== PROJETOS ===================== -->
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/Guialmeidasx/Musica">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=Musica&theme=tokyonight&hide_border=true" width="48%" alt="Musica"/>
-</a>
-<a href="https://github.com/Guialmeidasx/DezSegundos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=DezSegundos&theme=tokyonight&hide_border=true" width="48%" alt="DezSegundos"/>
-</a>
-
-<a href="https://github.com/Guialmeidasx/TradutorBaleias">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=TradutorBaleias&theme=tokyonight&hide_border=true" width="48%" alt="TradutorBaleias"/>
-</a>
-<a href="https://github.com/Guialmeidasx/Soletrar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=Soletrar&theme=tokyonight&hide_border=true" width="48%" alt="Soletrar"/>
-</a>
-
-<a href="https://github.com/Guialmeidasx/MilhasBumerangue">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=MilhasBumerangue&theme=tokyonight&hide_border=true" width="48%" alt="MilhasBumerangue"/>
-</a>
-<a href="https://github.com/Guialmeidasx/RolagemDados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guialmeidasx&repo=RolagemDados&theme=tokyonight&hide_border=true" width="48%" alt="RolagemDados"/>
-</a>
-
-</div>
-
-<br/>
-
 <!-- ===================== STATS ===================== -->
 ## 📊 Estatísticas do GitHub
 
@@ -94,17 +62,6 @@ var guilherme = new Desenvolvedor
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guialmeidasx&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUIÇÕES ===================== -->
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guialmeidasx&bg_color=0f2027&color=5eead4&line=2c5364&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
