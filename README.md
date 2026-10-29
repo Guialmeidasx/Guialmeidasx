@@ -39,8 +39,7 @@
 <br/>
 
 <!-- ===================== STATS ===================== -->
-## 📊 Estatísticas do GitHub
-
+## 📊 Estatísticas 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Guialmeidasx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="Stats"/>
@@ -60,7 +59,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermedealmeidasilva17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guialmeidasx)
 
 <br/>
 
