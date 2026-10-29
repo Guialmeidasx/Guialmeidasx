@@ -1,11 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guilherme%20Almeida&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Student%20%40%20Fatec%20Praia%20Grande&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guilherme%20Almeida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Student%20%40%20Fatec%20Praia%20Grande&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<a href="https://github.com/Guialmeidasx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%8E%93;Apaixonado+por+C%23+e+resolu%C3%A7%C3%A3o+de+problemas+%F0%9F%92%A1;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<h3>Desenvolvedor em formação 🎓 &nbsp;•&nbsp; Apaixonado por C# e resolução de problemas 💡</h3>
 
 <br/>
 
