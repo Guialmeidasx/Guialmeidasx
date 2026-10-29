@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guilherme%20Almeida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Student%20%40%20Fatec%20Praia%20Grande&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<h3>Desenvolvedor em formação 🎓 &nbsp;•&nbsp; Apaixonado por C# e resolução de problemas 💡</h3>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Guialmeidasx&color=2c5364&style=flat-square&label=VISUALIZA%C3%87%C3%95ES)
@@ -16,22 +14,16 @@
 <br/>
 
 <!-- ===================== SOBRE ===================== -->
-## ✨ Sobre mim
 
 ```csharp
 var guilherme = new Desenvolvedor
 {
     Nome        = "Guilherme Almeida",
-    Formacao    = "Faculdade de Tecnologia de Praia Grande (Fatec PG)",
-    Base        = "Praia Grande, SP 🌊",
-    Foco        = "Desenvolvimento de Software",
+    Formacao    = "Desenvolvimento de Software - (Fatec PG)" 2026 - 2028
     Linguagens  = new[] { "Java", "JavaScript", "PHP", "CSS", "HTML", "C#" }
 };
 ```
-
-- 🎓 Estudante de tecnologia na **Fatec Praia Grande**
-- 💻 Comecei no curso de informática da **Etec Adolpho Berezin**
-- 🌱 Praticando lógica, algoritmos e orientação a objetos com projetos próprios
+- 💻 Praticando lógica, algoritmos e orientação a objetos com projetos próprios
 - 🤝 Aberto a networking, estágio e projetos em equipe
 
 <br/>
